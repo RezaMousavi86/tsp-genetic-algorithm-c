@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# tsp-genetic-algorithm-c
-A C implementation of the Traveling Salesman Problem (TSP) using Genetic Algorithms, featuring real-time visualization with Raylib.
-=======
 # TSP Genetic Algorithm Solver in C
 
 This project provides an efficient solution to the **Traveling Salesman Problem (TSP)** using a **Genetic Algorithm** implemented in C. It includes a real-time graphical visualization of the path optimization process using the **Raylib** library.
@@ -22,4 +18,29 @@ This project provides an efficient solution to the **Traveling Salesman Problem 
 ```bash
    gcc main.c -lraylib -o tsp_solver
    
->>>>>>> 8aaf7e8 (Upload my C project and files)
+
+
+---
+
+## References & Resources
+
+### Academic & Theoretical Foundations
+*   **[ScienceDirect: Genetic Algorithm](https://www.sciencedirect.com/topics/engineering/genetic-algorithm)**: Used for understanding the theoretical foundations and engineering applications of Genetic Algorithms.
+*   **[Traveling Salesman Problem (Wikipedia)](https://en.wikipedia.org/wiki/Travelling_salesman_problem)**: Classic reference for defining the constraints and objectives of the TSP.
+
+### Tutorials & Inspiration
+*   **[YouTube: Genetic Algorithm for TSP](https://youtu.be/kHyNqSnzP8Y)**: Provided essential guidance on implementing the core logic of the Genetic Algorithm for solving path optimization problems.
+
+### Libraries & Tools
+*   **[Raylib](https://www.raylib.com/)**: Used for real-time graphics rendering and visualization.
+    *   [Raylib Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
+
+---
+
+## Acknowledgments
+This project was developed as the final assignment for the Computer Programming course, under the supervision of **Professor [Mahdi Saadatmand]** at [Ferdowsi University of Mashhad]. 
+
+I would like to express my gratitude for their guidance and the insights gained throughout the semester.
+
+---
+
