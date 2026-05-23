@@ -17,7 +17,7 @@ This project provides an efficient solution to the **Traveling Salesman Problem 
 2. Compile the code (linking with raylib):
 ```bash
    gcc main.c -lraylib -o tsp_solver
-   
+```   
 
 
 ---
